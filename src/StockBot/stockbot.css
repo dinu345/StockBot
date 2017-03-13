@@ -1,0 +1,38 @@
+﻿body {
+    //color:red;
+    font-family:sans-serif;
+}
+
+p {
+    color:aqua;
+}
+footer {
+background-color:black;
+color:seashell;
+padding:5px;
+margin: 5px;
+}
+
+.StockBotImage {
+max-width:100px;
+}
+
+.menu {
+font-size:12px;
+}
+
+
+#sidebar {
+    background: black;
+    color:white;
+    height:100%;
+    width:250px;
+    overflow: hidden;
+    left:0; 
+
+}
+
+#wrapper {
+margin-left: 250px;
+
+}
